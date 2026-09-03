@@ -1,8 +1,9 @@
+package org.example;
+
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
-import java.util.stream.Collectors;
-import java.util.*;
-import static java.time.format.DateTimeFormatter.*;
+
+import static java.time.format.DateTimeFormatter.ISO_LOCAL_DATE_TIME;
 
 
 public class Example {
